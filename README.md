@@ -1,0 +1,2 @@
+# mblSmartFrame_politique_confidentialite
+Politique de confidentialite du mblSmartFrame
